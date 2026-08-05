@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T16:57:50.692883+00:00",
+  "generatedAt": "2026-08-05T17:12:47.915169+00:00",
   "sources": {
     "normal": "https://iidx-difficulty-table-checker.nomadblacky.dev/table/12_normal",
     "hard": "https://iidx-difficulty-table-checker.nomadblacky.dev/table/12_hard"
@@ -180,45 +180,9 @@
       "rank": "個人差S+"
     },
     {
-      "title": "(This Is Not) The Angels",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
-      "title": "27th style",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力S"
-    },
-    {
-      "title": "Ah Hah Yeah",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力S"
-    },
-    {
-      "title": "Beat Juggling Mix",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
       "title": "Binary Black Hole",
       "chart": "",
       "ver": "29",
-      "rank": "地力S"
-    },
-    {
-      "title": "Bounce Bounce Bounce",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力S"
-    },
-    {
-      "title": "CHECKING YOU OUT",
-      "chart": "",
-      "ver": "4",
       "rank": "地力S"
     },
     {
@@ -240,33 +204,15 @@
       "rank": "地力S"
     },
     {
-      "title": "D",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力S"
-    },
-    {
       "title": "Dances with Snow Fairies",
       "chart": "",
       "ver": "18",
       "rank": "地力S"
     },
     {
-      "title": "Digitank System",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力S"
-    },
-    {
       "title": "EMERALDAS",
       "chart": "",
       "ver": "25",
-      "rank": "地力S"
-    },
-    {
-      "title": "EXODUS SIGN",
-      "chart": "",
-      "ver": "30",
       "rank": "地力S"
     },
     {
@@ -282,21 +228,9 @@
       "rank": "地力S"
     },
     {
-      "title": "FUTURE is Dead",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力S"
-    },
-    {
       "title": "GO OVER WITH GLARE -ROOTAGE 26-",
       "chart": "",
       "ver": "26",
-      "rank": "地力S"
-    },
-    {
-      "title": "Game Changers",
-      "chart": "",
-      "ver": "29",
       "rank": "地力S"
     },
     {
@@ -306,27 +240,9 @@
       "rank": "地力S"
     },
     {
-      "title": "Halfway of promise",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力S"
-    },
-    {
-      "title": "Hydrogen Blueback",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力S"
-    },
-    {
       "title": "ICARUS",
       "chart": "",
       "ver": "15",
-      "rank": "地力S"
-    },
-    {
-      "title": "IDC feat.REVERBEE (Mo'Cuts Ver)",
-      "chart": "",
-      "ver": "26",
       "rank": "地力S"
     },
     {
@@ -336,21 +252,9 @@
       "rank": "地力S"
     },
     {
-      "title": "Just a Little Smile",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力S"
-    },
-    {
       "title": "KAISER PHOENIX",
       "chart": "",
       "ver": "21",
-      "rank": "地力S"
-    },
-    {
-      "title": "Linus",
-      "chart": "",
-      "ver": "6",
       "rank": "地力S"
     },
     {
@@ -366,30 +270,6 @@
       "rank": "地力S"
     },
     {
-      "title": "Monkey Business",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "OVER VOLTAGE",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Onyx",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力S"
-    },
-    {
-      "title": "Overload Frontier",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力S"
-    },
-    {
       "title": "Override",
       "chart": "",
       "ver": "27",
@@ -402,93 +282,15 @@
       "rank": "地力S"
     },
     {
-      "title": "Red Determination",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "Red Soul",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Routing",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力S"
-    },
-    {
-      "title": "SABER WING",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力S"
-    },
-    {
-      "title": "SWEETEST SAVAGE",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力S"
-    },
-    {
       "title": "Sinus Iridum",
       "chart": "",
       "ver": "28",
       "rank": "地力S"
     },
     {
-      "title": "Swarm Of Scarabs",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力S"
-    },
-    {
-      "title": "T.R.O.L.L.",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
       "title": "TRANOID",
       "chart": "",
       "ver": "14",
-      "rank": "地力S"
-    },
-    {
-      "title": "TRIP THE DEEP",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "Theory",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力S"
-    },
-    {
-      "title": "Uh-Oh",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力S"
-    },
-    {
-      "title": "VOLCANIC BIGBEAT",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "With You",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Wonder Bullfighter",
-      "chart": "",
-      "ver": "11",
       "rank": "地力S"
     },
     {
@@ -510,51 +312,15 @@
       "rank": "地力S"
     },
     {
-      "title": "naughty girl@Queen's Palace",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力S"
-    },
-    {
-      "title": "nostos",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
       "title": "perditus†paradisus",
       "chart": "",
       "ver": "18",
       "rank": "地力S"
     },
     {
-      "title": "rough percussionythm",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力S"
-    },
-    {
       "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
       "chart": "",
       "ver": "20",
-      "rank": "地力S"
-    },
-    {
-      "title": "とろぴかる倶楽部",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力S"
-    },
-    {
-      "title": "ベィスドロップ・フリークス",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力S"
-    },
-    {
-      "title": "ラクエン",
-      "chart": "",
-      "ver": "12",
       "rank": "地力S"
     },
     {
@@ -585,12 +351,6 @@
       "title": "焔極OVERKILL",
       "chart": "",
       "ver": "24",
-      "rank": "地力S"
-    },
-    {
-      "title": "花冠 feat.Aikapin",
-      "chart": "",
-      "ver": "26",
       "rank": "地力S"
     },
     {
@@ -657,12 +417,6 @@
       "title": "-65℃",
       "chart": "",
       "ver": "28",
-      "rank": "地力A+"
-    },
-    {
-      "title": "ANOTHER",
-      "chart": "",
-      "ver": "-",
       "rank": "地力A+"
     },
     {
@@ -1878,12 +1632,6 @@
       "rank": "地力B"
     },
     {
-      "title": "LEGGENDARIA",
-      "chart": "",
-      "ver": "-",
-      "rank": "地力B"
-    },
-    {
       "title": "Lightspeed",
       "chart": "",
       "ver": "32",
@@ -2310,51 +2058,9 @@
       "rank": "個人差B"
     },
     {
-      "title": "10000 MILES AWAY",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "2 tribe 4 K",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "ABSOLUTE",
-      "chart": "",
-      "ver": "4",
-      "rank": "地力C"
-    },
-    {
-      "title": "ABSOLUTE (kors k Remix)",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "ADAMANT",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "AGEHA",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力C"
-    },
-    {
       "title": "AKASHIC BREAK",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "Acid Pumper",
-      "chart": "",
-      "ver": "23",
       "rank": "地力C"
     },
     {
@@ -2382,117 +2088,15 @@
       "rank": "地力C"
     },
     {
-      "title": "AsiaN distractive",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "BLUST OF WIND",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "BabeL ～Grand Story～",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Bahram Attack-猫叉Master Remix-",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
-      "title": "Bang-Boo Bumble",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Be A Star",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Beyond The Earth",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Beyond The Seven",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Blaze it UP!",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "C-C-C-N-N-N",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "COLOSSEUM",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
       "title": "COSMIC V3LOCITY",
       "chart": "",
       "ver": "32",
       "rank": "地力C"
     },
     {
-      "title": "CaptivAte～浄化～",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力C"
-    },
-    {
       "title": "Chaotoxin",
       "chart": "",
       "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "Chronos",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "City Never Sleeps (IIDX Edition)",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Click Again",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力C"
-    },
-    {
-      "title": "Clione",
-      "chart": "",
-      "ver": "4",
-      "rank": "地力C"
-    },
-    {
-      "title": "Cookie Bouquets",
-      "chart": "",
-      "ver": "20",
       "rank": "地力C"
     },
     {
@@ -2508,27 +2112,9 @@
       "rank": "地力C"
     },
     {
-      "title": "DAWN -THE NEXT ENDEAVOUR-",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
       "title": "DAY DREAM",
       "chart": "",
       "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "DAZZLE ATTACK",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "DEEP ROAR",
-      "chart": "",
-      "ver": "13",
       "rank": "地力C"
     },
     {
@@ -2544,45 +2130,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Daily Lunch Special",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Dawn Saga",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "Derelict Star feat. Ryu*",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Discloze",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Divine Heaven",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Dr. Chemical & Killing Machine",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "EDEN",
-      "chart": "",
-      "ver": "12",
       "rank": "地力C"
     },
     {
@@ -2592,51 +2142,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Egret and Willow",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Element of SPADA",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "Elisha",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "Emera",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "Energy Drive",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ergosphere",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Evans",
       "chart": "",
       "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "Exhaust Hype",
-      "chart": "",
-      "ver": "25",
       "rank": "地力C"
     },
     {
@@ -2646,45 +2154,15 @@
       "rank": "地力C"
     },
     {
-      "title": "FREEDOM",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
       "title": "FUZIN RIZIN",
       "chart": "",
       "ver": "24",
       "rank": "地力C"
     },
     {
-      "title": "Fervidex",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Fiery Stallion",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
       "title": "Friction[!]Function",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "GIGA RAID",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "GIGANT",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -2706,45 +2184,15 @@
       "rank": "地力C"
     },
     {
-      "title": "Golden Palms",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "Gravigazer",
       "chart": "",
       "ver": "22",
       "rank": "地力C"
     },
     {
-      "title": "HEISEI",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "HELL SCAPER -Last Escape Remix-",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "HIGH",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
       "title": "Here We Go Now",
       "chart": "",
       "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "IDOL syndrome.",
-      "chart": "",
-      "ver": "26",
       "rank": "地力C"
     },
     {
@@ -2757,18 +2205,6 @@
       "title": "Invitation from Mr.C",
       "chart": "",
       "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Journey",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Kailua",
-      "chart": "",
-      "ver": "18",
       "rank": "地力C"
     },
     {
@@ -2808,30 +2244,6 @@
       "rank": "地力C"
     },
     {
-      "title": "Logic Board",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力C"
-    },
-    {
-      "title": "Lucy",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
-      "title": "MIRACLE MEETS",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "MVP",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
       "title": "Million Dollar",
       "chart": "",
       "ver": "31",
@@ -2856,63 +2268,9 @@
       "rank": "地力C"
     },
     {
-      "title": "No Tears",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Nocturnal 2097",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Ou Legends",
       "chart": "",
       "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "Outbreak",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "PENDUAL TALISMAN",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Para siempre",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "Perfect Plan",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "Pollinosis",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力C"
-    },
-    {
-      "title": "PopなEDEN",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Psycho Sheep Riddim",
-      "chart": "",
-      "ver": "26",
       "rank": "地力C"
     },
     {
@@ -2934,33 +2292,9 @@
       "rank": "地力C"
     },
     {
-      "title": "ROCK女 feat. 大山愛未， Ken",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "Raspberry Potion (feat.あれたん & ぎゃるのしん☆)",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
       "title": "Rave Patroller",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "Realize Maze",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Rejection Girl",
-      "chart": "",
-      "ver": "28",
       "rank": "地力C"
     },
     {
@@ -2970,33 +2304,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Romanticが止まらない",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "R∞tAge",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "S!ck (Nhato Remix)",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
       "title": "SAY BAY",
       "chart": "",
       "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "SHADE",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -3006,57 +2316,9 @@
       "rank": "地力C"
     },
     {
-      "title": "SOUND OF GIALLARHORN",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "SPACE FIGHT",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
-      "title": "STARLIGHT JUNCTION",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "STARLiGHT",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Sakura Reflection",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Scars of FAUNA",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Scharfrichter",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力C"
-    },
-    {
       "title": "Seven Times Four",
       "chart": "",
       "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "Shadow World",
-      "chart": "",
-      "ver": "30",
       "rank": "地力C"
     },
     {
@@ -3066,33 +2328,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Souhait bleu",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Sounds Of Summer",
       "chart": "",
       "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Space In Time",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Speculation",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "Star Trail",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -3120,87 +2358,9 @@
       "rank": "地力C"
     },
     {
-      "title": "THE BLACK KNIGHT",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "THE DAY OF JUBILATIONS",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "THE DETONATOR",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "THE FALLEN",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Take It Easy",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力C"
-    },
-    {
-      "title": "Temple of Anubis",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Tropical April",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Urban Constellations",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "V2",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
-      "title": "VALKYRIAS -英雄誕生-",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "VALLIS-NERIA",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "Valgus",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ventriloquist",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "Victory Of Ravers",
-      "chart": "",
-      "ver": "29",
       "rank": "地力C"
     },
     {
@@ -3216,27 +2376,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Volcanic Dragon",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "WISE UP!",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "WONDER WALKER",
       "chart": "",
       "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "Wanna Party?",
-      "chart": "",
-      "ver": "15",
       "rank": "地力C"
     },
     {
@@ -3246,39 +2388,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Wolf 1061",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "XINOBIKILL",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Xyndrome",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Ypsilon",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "Zenith",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "apo:llioth",
-      "chart": "",
-      "ver": "28",
       "rank": "地力C"
     },
     {
@@ -3288,31 +2400,7 @@
       "rank": "地力C"
     },
     {
-      "title": "examination leave",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "in the Sky",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
       "title": "innocent revolver",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "lowercase lifetime",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "of the first magnitude",
       "chart": "",
       "ver": "28",
       "rank": "地力C"
@@ -3330,27 +2418,9 @@
       "rank": "地力C"
     },
     {
-      "title": "smile",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力C"
-    },
-    {
-      "title": "smooooch・∀・",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
       "title": "spiral galaxy",
       "chart": "",
       "ver": "11",
-      "rank": "地力C"
-    },
-    {
-      "title": "the trigger of innocence",
-      "chart": "",
-      "ver": "15",
       "rank": "地力C"
     },
     {
@@ -3360,27 +2430,9 @@
       "rank": "地力C"
     },
     {
-      "title": "yamabiko (SINOBUZ Edition)",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
       "title": "yellow head joe",
       "chart": "",
       "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "≡+≡",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "《ORDERBREAKER》",
-      "chart": "",
-      "ver": "30",
       "rank": "地力C"
     },
     {
@@ -3390,27 +2442,9 @@
       "rank": "地力C"
     },
     {
-      "title": "たからもの",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
       "title": "めいさいアイドル☆あいむちゃん♪",
       "chart": "",
       "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "アイドル",
-      "chart": "",
-      "ver": "31",
       "rank": "地力C"
     },
     {
@@ -3420,93 +2454,15 @@
       "rank": "地力C"
     },
     {
-      "title": "オドループ",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "グッバイ宣言",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "シャムシールの舞",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
       "title": "シュレーディンガーの猫",
       "chart": "",
       "ver": "20",
       "rank": "地力C"
     },
     {
-      "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "ディッシュウォッシャー◎彡おいわちゃん",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
       "title": "トリカゴノ鳳凰",
       "chart": "",
       "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "ドッキン☆サマーあばんちゅーる",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "ハオ",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "バッドエンド・シンドローム",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "ミュージック・アワー",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "ユミル",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "ラビットホール",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "乱膳の舞姫",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "凛として咲く花の如く",
-      "chart": "",
-      "ver": "16",
       "rank": "地力C"
     },
     {
@@ -3522,57 +2478,15 @@
       "rank": "地力C"
     },
     {
-      "title": "寝起きヤシの木",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "少年リップルズ",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "恋は白帯、サンシロー",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
       "title": "旋律のドグマ～Miserables～",
       "chart": "",
       "ver": "21",
       "rank": "地力C"
     },
     {
-      "title": "明鏡止水",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "朧",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "果たせぬ約束 ft. 小林マナ",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
       "title": "深淵に捧ぐレクイエム",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "無双",
-      "chart": "",
-      "ver": "32",
       "rank": "地力C"
     },
     {
@@ -3588,39 +2502,15 @@
       "rank": "地力C"
     },
     {
-      "title": "錬成人間トリコロイダー",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
       "title": "電光",
       "chart": "",
       "ver": "31",
       "rank": "地力C"
     },
     {
-      "title": "鬼天",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "鴉",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
       "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ｘ↑Ｘ↓",
-      "chart": "",
-      "ver": "22",
       "rank": "地力C"
     },
     {
@@ -4140,144 +3030,6 @@
       "rank": "個人差D"
     },
     {
-      "title": "#The_Relentless",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "& Intelligence",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "100％ minimoo-G",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "1st Samurai",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "20XX",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "24th Century BOY",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "3V0",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "405nm (Ryu☆mix)",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "50th Memorial Songs -The BEMANI History-",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "532nm",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "AFRO KNUCKLE",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "ALL MY TURN -このターンに、オレの全てを賭ける-",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "AMRITA -不滅ノ花-",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "ANDROMEDA",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "ANTHEM LANDING",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Abraxas",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Advent Infamous",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aegis",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Afterimage d'automne",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ambush Ace",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Amethyst",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Amor De Verao",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Angelic Jelly",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
       "title": "Apocalypse",
       "chart": "",
       "ver": "24",
@@ -4290,207 +3042,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Around The Galaxy",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Around the Future",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aublia",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aurora",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "BLOCKS",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "BRAINSTORM",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "BREAK OVER",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "BROKEN EDEN",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Back Spin Sweeper",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Banger Banger Banger Banger",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Battle Train -IIDX Edition-",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Battleground",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Be OK",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "Be a Hero!",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Beastie Starter",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Believe In Me",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Blame",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "Blind Justice ～Torn souls， Hurt Faiths ～",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Bow shock!!",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Broadbanded",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Buffalo",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "CHAOTIC SUNBIRD",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "CODE -CRiMSON-",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "CODE:2",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "CONCEPTUAL",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "COSMIC CYBER",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Caldwell 99",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "CaptivAte2～覚醒～",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
       "title": "Carry Me Away",
       "chart": "",
       "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Castle on the Moon",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Change Yourself",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "ChaserXX",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Chemical Colours",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Cleopatrysm",
-      "chart": "",
-      "ver": "21",
       "rank": "地力E"
     },
     {
@@ -4506,291 +3060,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Crazy Jackpot",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Critical Crystal",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Cyber True Color",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "D.C.fish",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "DESIRE",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "DISPARATE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "DREAM OF SPACE UFO ABDUCTION",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "DROP",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Danza Aestas",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Debtty Daddy",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "Destiny Sword",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Devilz Sacrifice -贖罪の羊-",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Do it!! Do it!!",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "ELYSIUM",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "EXTREME MACH COLLIDER",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Echoes of Sunfall",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Eine Haube ～聖地の果てにあるもの～",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ember Lights",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Empire State Glory",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Engraved Mark",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Erosion Mark",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Explorer feat. ぷにぷに電機",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
       "title": "F",
       "chart": "",
       "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "FINALLY BLAZE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "FLOWER",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Farewell to Marrakech",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Flash Back 90's",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Funny shuffle",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "G2",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "GALGALIM",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "GENOCIDE",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "GHOST",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "GIGA THRASH",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "GIGA VIOLATE",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "GLORIOUS HAMMER",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "GOBBLE",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "GOLD RUSH",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Garuda",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Get Higher",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Get On Your Feet",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Giudecca",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "Globe Glitter",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "GloriosA",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "HAPPY★RUSH",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "HYPE THE CORE",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "HYPERION",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Harmony and Lovely",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Hat Surprise",
-      "chart": "",
-      "ver": "29",
       "rank": "地力E"
     },
     {
@@ -4800,123 +3072,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Hat Surprise (Season 3)",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Hello Happiness",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Holic",
-      "chart": "",
-      "ver": "3",
-      "rank": "地力E"
-    },
-    {
-      "title": "Honey Trap",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "I Love You",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "I will be back -オレは帰ってきた-",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "I'm so Happy",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "INAZUMA",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "INHERITANCE",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "INORI",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "INVISIBLE STRIX",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "In the Blackest Den",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Inner Spirit",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Insane Techniques",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Into The Madness",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
       "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
       "chart": "",
       "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Jungle Eater",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Just Gimme",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "KEY",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "KHAMEN BREAK",
-      "chart": "",
-      "ver": "21",
       "rank": "地力E"
     },
     {
@@ -4926,33 +3084,9 @@
       "rank": "地力E"
     },
     {
-      "title": "LADYBIRD",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
       "title": "LASER CRUSTER",
       "chart": "",
       "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "LAST DAY",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lawes's Parotia",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Let The Track Flow",
-      "chart": "",
-      "ver": "18",
       "rank": "地力E"
     },
     {
@@ -4962,117 +3096,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Light and Cyber…",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lighting Shower",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Like+it!",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Line 4 Ruin",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
       "title": "Little Star",
       "chart": "",
       "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lost wing at.0",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Love Is Eternity",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lovely Howdy Cowboy!!",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "MAGIC & LOVE",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "MAXIVCORD",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "MA・TSU・RI",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "MENTAL MELTDOWN",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "MINT",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Macuilxochitl",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Modular Technology",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Moving on",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Mukade",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "NEMESIS",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "NEW SENSATION -もう、あなたしか見えない-",
-      "chart": "",
-      "ver": "17",
       "rank": "地力E"
     },
     {
@@ -5082,213 +3108,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Nasty Techniques",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Necroxis Girl",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Neo Heritage",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Never Fade Away",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "New Decade IIDX Edition",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Next Tales 2 Oath (IIDX 20th Anniv \"Ring\" Theme)",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Night sky",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Night! Night! Night!",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "No Limit 2 dAnce feat. 大山愛未",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "No.13",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "OTOKOZAKA",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "On the FM",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Overslept",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "PAPAYAPA BASS",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "PHASE SHIFT MANEUVER",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "PILGRIM",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "POLKAMANIA",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "POODLE",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Pharaoh",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Playing With Fire",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Pout",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed Genom",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed Sun",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed World",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Psychedelic Intelligence",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Queen Kaguya",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Quick Silver",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "R5",
-      "chart": "",
-      "ver": "3",
-      "rank": "地力E"
-    },
-    {
-      "title": "RAVE SYNDROME",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
       "title": "RED ZONE",
       "chart": "",
       "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "RESONATE 1794",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "RISLIM -Remix-",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "ROTTERDAM SHOGUN",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "RUGGED ASH",
-      "chart": "",
-      "ver": "s",
-      "rank": "地力E"
-    },
-    {
-      "title": "Raison d'etre～交差する宿命～",
-      "chart": "",
-      "ver": "17",
       "rank": "地力E"
     },
     {
@@ -5298,199 +3120,7 @@
       "rank": "地力E"
     },
     {
-      "title": "Rising in the Sun(original mix)",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ritual of Anubis",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rock Da House",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rock It",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rosa azuL",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rubrum Piano",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ruler or Loser",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "S!ck",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "SCHWARZSCHILD FIELD",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "SEQUENCE CAT",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "SHELTER OF THE MIND",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "STELLAR WIND",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "STOIC HYPOTHESIS",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "STRAIGHT TO THE STARS",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sakura Mirage",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sarutobi Champion is 拙者",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Scarlet Moon",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Scripted Connection⇒ N mix",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Second Heaven",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Secret of Love",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "See You Again",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Seraph",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Session 1 -Genesis-",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Shiva",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Show Me All Your Love",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
       "title": "Sirius",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Snow Goose",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sparkle Smilin'",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Spica",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "Squeeze",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "State Of The Art",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "Stylus",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Submerge Serenade",
       "chart": "",
       "ver": "31",
       "rank": "地力E"
@@ -5502,97 +3132,13 @@
       "rank": "地力E"
     },
     {
-      "title": "Sun Field",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Swing My Wonderland",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
       "title": "Symmetry",
       "chart": "",
       "ver": "22",
       "rank": "地力E"
     },
     {
-      "title": "Synergy For Angels",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE CANNONBALLER",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE LAST STRIKER",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE SHINING POLARIS(kors k mix)",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE TIME MACHINE",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "TYPE MARS(G-Style Mix)",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Tail Lights",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Take My Life",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Tell me what you wish feat.らっぷびと",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "The Dirty of Loudness",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
       "title": "The Onlyonez",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "This Is Club Musik feat. 大久保紅葉",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Time Distortion pt.2(IIDX Edit)",
       "chart": "",
       "ver": "31",
       "rank": "地力E"
@@ -5604,159 +3150,9 @@
       "rank": "地力E"
     },
     {
-      "title": "UMMU",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "UNDERWORLD HOLOGRAPHY",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "UNITE THE HEART",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Unicorn tail",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Usual Days-remix",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "VEGA",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
       "title": "Venom",
       "chart": "",
       "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Violet Rose",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Vulkan",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Wonder Girl feat. Kanae Asaba",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Wonderland",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "X-ray binary",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "XENON II ～TOMOYUKIの野望～",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Xepher",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Yellow Sketch(RX-Ver.S.P.L.)",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "You'll say \"Now!\"",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Yum Yum Jelly",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZED",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZENDEGI DANCE",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZERO-ONE",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZETA～素数の世界と超越者～",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZEИITH",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "bloomin' feeling",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "chaos eater -IIDX edition-",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "crew",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "diagram",
-      "chart": "",
-      "ver": "21",
       "rank": "地力E"
     },
     {
@@ -5778,147 +3174,9 @@
       "rank": "地力E"
     },
     {
-      "title": "i-ii",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "kors k's How to make OTOGE CORE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "m1dy Deluxe",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
       "title": "moon_child",
       "chart": "",
       "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "murmur twins",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "n'pa pa BBQ",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "neogenesis",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "out of disk space",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "prompt",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "quasar",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow flyer",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow guitar weeps",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow rainbow",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "refractive index",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "rumrum triplets",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "satellite020712 from \"CODED ARMS\"",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "squall",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "stoic",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "switch",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "the shadow",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "tripping contact(teranoid&MC Natsack Remix)",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "winkle 2 winkle",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "xenon",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "《GRANDMASTER》",
-      "chart": "",
-      "ver": "29",
       "rank": "地力E"
     },
     {
@@ -5928,327 +3186,15 @@
       "rank": "地力E"
     },
     {
-      "title": "あるビー！ feat.ころねぽち",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "うさ☆かめ 大戦争！",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "えだまめカレークッキング",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "か・し・ま・し☆PUMP UP！",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "ちょえちょえまぎか",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "もっと！モット！ときめき feat. 松下",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "ウツシミウツシ",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "オールトの雲",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "シル・ヴ・プレジデント",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "セロトニン",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "デッドボヲルdeホームラン",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "ハードベース・フェスタ",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "バ→ビ→ブ→Bomb!",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "バンブーソード・ガール",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "パ→ピ→プ→Yeah!",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "パラドキシカル・タイムリープトライアル(Short Ver.)",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "パーフェクトイーター",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "ファイナルレター",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "マーシャル・マキシマイザー",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "ミッドナイト☆WAR",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ミッドナイト堕天使",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "メズマライザー",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "ランカーキラーガール",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "儚き恋の華",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "冬椿 ft. Kanae Asaba",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "創世ノート",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "勇者",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "合体せよ！ストロングイェーガー！！ (Ryu☆ remix)",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "命の標本",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "夕焼け ～Fading Day～",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "夢縁",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "天空脳番長危機十六連打",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
       "title": "少年A",
       "chart": "",
       "ver": "15",
       "rank": "地力E"
     },
     {
-      "title": "忍恋花",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "惑星☆ロリポップ",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "打打打打打打打打打打",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "断罪の一花",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "旅人リラン",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "時空トラベローグ",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "曼荼羅恋々",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "月とミルク",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "朝焼けから始まるボクらの小さな旅",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "泰東ノ翠霞",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "涙のテ・エストラーニョ・ムーチョ",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
       "title": "灼熱 Lost Summer Dayz",
       "chart": "",
       "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "無意識のフィロソフィア",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "爆ぜりゃんせ",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "爆ゼニ☆がってんワーカー",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "牧神笛吹きて",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "狂水一華",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "眠りの国のステラ",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "禍根",
-      "chart": "",
-      "ver": "24",
       "rank": "地力E"
     },
     {
@@ -6261,54 +3207,6 @@
       "title": "終焔のClaudia",
       "chart": "",
       "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "輪廻の鴉",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "追想快晴テーマパーク",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "量子の海のリントヴルム",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "開きたまえ！Next stAge！",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "雫",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "青の洞窟",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "響花水月",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "麗 ～うらら～",
-      "chart": "",
-      "ver": "23",
       "rank": "地力E"
     },
     {
@@ -6412,36 +3310,6 @@
       "chart": "",
       "ver": "18",
       "rank": "個人差F"
-    },
-    {
-      "title": "☆11 (新ノマゲ難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆11 (新ハード難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆12 (ノマゲ難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆12 (ハード難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "譜面",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
     }
   ],
   "hard": [
@@ -6503,12 +3371,6 @@
       "title": "3y3s",
       "chart": "",
       "ver": "16",
-      "rank": "地力S+"
-    },
-    {
-      "title": "ANOTHER",
-      "chart": "",
-      "ver": "-",
       "rank": "地力S+"
     },
     {
@@ -6716,24 +3578,6 @@
       "rank": "個人差S+"
     },
     {
-      "title": "(This Is Not) The Angels",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
-      "title": "27th style",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力S"
-    },
-    {
-      "title": "Ah Hah Yeah",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力S"
-    },
-    {
       "title": "Almagest",
       "chart": "",
       "ver": "17",
@@ -6752,33 +3596,15 @@
       "rank": "地力S"
     },
     {
-      "title": "Beat Juggling Mix",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
       "title": "Binary Black Hole",
       "chart": "",
       "ver": "29",
       "rank": "地力S"
     },
     {
-      "title": "Bounce Bounce Bounce",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力S"
-    },
-    {
       "title": "BroGamer",
       "chart": "",
       "ver": "24",
-      "rank": "地力S"
-    },
-    {
-      "title": "CHECKING YOU OUT",
-      "chart": "",
-      "ver": "4",
       "rank": "地力S"
     },
     {
@@ -6794,12 +3620,6 @@
       "rank": "地力S"
     },
     {
-      "title": "D",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力S"
-    },
-    {
       "title": "Dances with Snow Fairies",
       "chart": "",
       "ver": "18",
@@ -6809,12 +3629,6 @@
       "title": "Dans la nuit de l'eternite",
       "chart": "",
       "ver": "27",
-      "rank": "地力S"
-    },
-    {
-      "title": "Digitank System",
-      "chart": "",
-      "ver": "15",
       "rank": "地力S"
     },
     {
@@ -6830,12 +3644,6 @@
       "rank": "地力S"
     },
     {
-      "title": "EXODUS SIGN",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
       "title": "Elemental Creation",
       "chart": "",
       "ver": "20",
@@ -6848,37 +3656,7 @@
       "rank": "地力S"
     },
     {
-      "title": "FUTURE is Dead",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力S"
-    },
-    {
       "title": "GO OVER WITH GLARE -ROOTAGE 26-",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力S"
-    },
-    {
-      "title": "Game Changers",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力S"
-    },
-    {
-      "title": "Halfway of promise",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力S"
-    },
-    {
-      "title": "Hydrogen Blueback",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力S"
-    },
-    {
-      "title": "IDC feat.REVERBEE (Mo'Cuts Ver)",
       "chart": "",
       "ver": "26",
       "rank": "地力S"
@@ -6896,18 +3674,6 @@
       "rank": "地力S"
     },
     {
-      "title": "Just a Little Smile",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力S"
-    },
-    {
-      "title": "Linus",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力S"
-    },
-    {
       "title": "Lost Souls",
       "chart": "",
       "ver": "27",
@@ -6917,30 +3683,6 @@
       "title": "MEGAERA",
       "chart": "",
       "ver": "28",
-      "rank": "地力S"
-    },
-    {
-      "title": "Monkey Business",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "OVER VOLTAGE",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Onyx",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力S"
-    },
-    {
-      "title": "Overload Frontier",
-      "chart": "",
-      "ver": "21",
       "rank": "地力S"
     },
     {
@@ -6956,39 +3698,9 @@
       "rank": "地力S"
     },
     {
-      "title": "Red Determination",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "Red Soul",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Routing",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力S"
-    },
-    {
-      "title": "SABER WING",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力S"
-    },
-    {
       "title": "STEEL NEEDLE",
       "chart": "",
       "ver": "15",
-      "rank": "地力S"
-    },
-    {
-      "title": "SWEETEST SAVAGE",
-      "chart": "",
-      "ver": "9",
       "rank": "地力S"
     },
     {
@@ -6998,63 +3710,15 @@
       "rank": "地力S"
     },
     {
-      "title": "Swarm Of Scarabs",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力S"
-    },
-    {
-      "title": "T.R.O.L.L.",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
       "title": "TRANOID",
       "chart": "",
       "ver": "14",
       "rank": "地力S"
     },
     {
-      "title": "TRIP THE DEEP",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力S"
-    },
-    {
-      "title": "Theory",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力S"
-    },
-    {
-      "title": "Uh-Oh",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力S"
-    },
-    {
       "title": "VANESSA",
       "chart": "",
       "ver": "14",
-      "rank": "地力S"
-    },
-    {
-      "title": "VOLCANIC BIGBEAT",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "With You",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力S"
-    },
-    {
-      "title": "Wonder Bullfighter",
-      "chart": "",
-      "ver": "11",
       "rank": "地力S"
     },
     {
@@ -7070,27 +3734,9 @@
       "rank": "地力S"
     },
     {
-      "title": "naughty girl@Queen's Palace",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力S"
-    },
-    {
-      "title": "nostos",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力S"
-    },
-    {
       "title": "perditus†paradisus",
       "chart": "",
       "ver": "18",
-      "rank": "地力S"
-    },
-    {
-      "title": "rough percussionythm",
-      "chart": "",
-      "ver": "27",
       "rank": "地力S"
     },
     {
@@ -7100,27 +3746,9 @@
       "rank": "地力S"
     },
     {
-      "title": "とろぴかる倶楽部",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力S"
-    },
-    {
       "title": "カジノファイヤーことみちゃん",
       "chart": "",
       "ver": "20",
-      "rank": "地力S"
-    },
-    {
-      "title": "ベィスドロップ・フリークス",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力S"
-    },
-    {
-      "title": "ラクエン",
-      "chart": "",
-      "ver": "12",
       "rank": "地力S"
     },
     {
@@ -7151,12 +3779,6 @@
       "title": "煉獄のエルフェリア",
       "chart": "",
       "ver": "21",
-      "rank": "地力S"
-    },
-    {
-      "title": "花冠 feat.Aikapin",
-      "chart": "",
-      "ver": "26",
       "rank": "地力S"
     },
     {
@@ -8444,12 +5066,6 @@
       "rank": "個人差B+"
     },
     {
-      "title": "LEGGENDARIA",
-      "chart": "",
-      "ver": "-",
-      "rank": "個人差B+"
-    },
-    {
       "title": "Level 2",
       "chart": "",
       "ver": "27",
@@ -8984,123 +5600,15 @@
       "rank": "地力C"
     },
     {
-      "title": "10000 MILES AWAY",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "2 tribe 4 K",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "ABSOLUTE",
-      "chart": "",
-      "ver": "4",
-      "rank": "地力C"
-    },
-    {
-      "title": "ABSOLUTE (kors k Remix)",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
       "title": "ACT0",
       "chart": "",
       "ver": "31",
       "rank": "地力C"
     },
     {
-      "title": "ADAMANT",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "AGEHA",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力C"
-    },
-    {
       "title": "AKASHIC BREAK",
       "chart": "",
       "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "Acid Pumper",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "AsiaN distractive",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "BLUST OF WIND",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "BabeL ～Grand Story～",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Bahram Attack-猫叉Master Remix-",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
-      "title": "Bang-Boo Bumble",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Be A Star",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Beyond The Earth",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Beyond The Seven",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Blaze it UP!",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "C-C-C-N-N-N",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "COLOSSEUM",
-      "chart": "",
-      "ver": "22",
       "rank": "地力C"
     },
     {
@@ -9116,63 +5624,9 @@
       "rank": "地力C"
     },
     {
-      "title": "CaptivAte～浄化～",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力C"
-    },
-    {
-      "title": "Chronos",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "City Never Sleeps (IIDX Edition)",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Click Again",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力C"
-    },
-    {
-      "title": "Clione",
-      "chart": "",
-      "ver": "4",
-      "rank": "地力C"
-    },
-    {
       "title": "Colors (radio edit)",
       "chart": "",
       "ver": "6",
-      "rank": "地力C"
-    },
-    {
-      "title": "Cookie Bouquets",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "DAWN -THE NEXT ENDEAVOUR-",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "DAZZLE ATTACK",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "DEEP ROAR",
-      "chart": "",
-      "ver": "13",
       "rank": "地力C"
     },
     {
@@ -9182,45 +5636,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Daily Lunch Special",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Dawn Saga",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "Derelict Star feat. Ryu*",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Discloze",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Divine Heaven",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Dr. Chemical & Killing Machine",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "EDEN",
-      "chart": "",
-      "ver": "12",
       "rank": "地力C"
     },
     {
@@ -9230,57 +5648,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Egret and Willow",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Element of SPADA",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "Elisha",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "Emera",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "Energy Drive",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ergosphere",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Evans",
       "chart": "",
       "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "Exhaust Hype",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "FREEDOM",
-      "chart": "",
-      "ver": "25",
       "rank": "地力C"
     },
     {
@@ -9296,18 +5666,6 @@
       "rank": "地力C"
     },
     {
-      "title": "Fervidex",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Fiery Stallion",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
       "title": "Friction[!]Function",
       "chart": "",
       "ver": "27",
@@ -9317,18 +5675,6 @@
       "title": "GAIA",
       "chart": "",
       "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "GIGA RAID",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "GIGANT",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -9344,12 +5690,6 @@
       "rank": "地力C"
     },
     {
-      "title": "Golden Palms",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "Gravigazer",
       "chart": "",
       "ver": "22",
@@ -9362,33 +5702,9 @@
       "rank": "地力C"
     },
     {
-      "title": "HEISEI",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "HELL SCAPER -Last Escape Remix-",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "HIGH",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
       "title": "Here We Go Now",
       "chart": "",
       "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "IDOL syndrome.",
-      "chart": "",
-      "ver": "26",
       "rank": "地力C"
     },
     {
@@ -9401,18 +5717,6 @@
       "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
       "chart": "",
       "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "Journey",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Kailua",
-      "chart": "",
-      "ver": "18",
       "rank": "地力C"
     },
     {
@@ -9446,33 +5750,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Logic Board",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力C"
-    },
-    {
-      "title": "Lucy",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
       "title": "M4K3 1T B0UNC3",
       "chart": "",
       "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "MIRACLE MEETS",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力C"
-    },
-    {
-      "title": "MVP",
-      "chart": "",
-      "ver": "32",
       "rank": "地力C"
     },
     {
@@ -9500,18 +5780,6 @@
       "rank": "地力C"
     },
     {
-      "title": "No Tears",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Nocturnal 2097",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "ONE AND ONLY",
       "chart": "",
       "ver": "30",
@@ -9536,51 +5804,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Outbreak",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "PENDUAL TALISMAN",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
       "title": "PUNISHER",
       "chart": "",
       "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "Para siempre",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "Perfect Plan",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "Pollinosis",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力C"
-    },
-    {
-      "title": "PopなEDEN",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Psycho Sheep Riddim",
-      "chart": "",
-      "ver": "26",
       "rank": "地力C"
     },
     {
@@ -9590,57 +5816,9 @@
       "rank": "地力C"
     },
     {
-      "title": "ROCK女 feat. 大山愛未， Ken",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "Raspberry Potion (feat.あれたん & ぎゃるのしん☆)",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Realize Maze",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Rejection Girl",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
       "title": "Roar of Chronos",
       "chart": "",
       "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Romanticが止まらない",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "R∞tAge",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "S!ck (Nhato Remix)",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "SHADE",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -9650,63 +5828,15 @@
       "rank": "地力C"
     },
     {
-      "title": "SOUND OF GIALLARHORN",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "SPACE FIGHT",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力C"
-    },
-    {
-      "title": "STARLIGHT JUNCTION",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "STARLiGHT",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
-      "title": "Sakura Reflection",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "Say YEEEAHH",
       "chart": "",
       "ver": "22",
       "rank": "地力C"
     },
     {
-      "title": "Scars of FAUNA",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Scharfrichter",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力C"
-    },
-    {
       "title": "Seven Times Four",
       "chart": "",
       "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "Shadow World",
-      "chart": "",
-      "ver": "30",
       "rank": "地力C"
     },
     {
@@ -9728,33 +5858,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Souhait bleu",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
       "title": "Sounds Of Summer",
       "chart": "",
       "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "Space In Time",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "Speculation",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "Star Trail",
-      "chart": "",
-      "ver": "19",
       "rank": "地力C"
     },
     {
@@ -9776,87 +5882,9 @@
       "rank": "地力C"
     },
     {
-      "title": "THE BLACK KNIGHT",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "THE DETONATOR",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "THE FALLEN",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
-      "title": "Take It Easy",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力C"
-    },
-    {
-      "title": "Temple of Anubis",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力C"
-    },
-    {
-      "title": "Tropical April",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "Umbral",
       "chart": "",
       "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Urban Constellations",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "V2",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
-      "title": "VALKYRIAS -英雄誕生-",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "VALLIS-NERIA",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "Valgus",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ventriloquist",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "Victory Of Ravers",
-      "chart": "",
-      "ver": "29",
       "rank": "地力C"
     },
     {
@@ -9872,57 +5900,9 @@
       "rank": "地力C"
     },
     {
-      "title": "Volcanic Dragon",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "WISE UP!",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力C"
-    },
-    {
       "title": "WONDER WALKER",
       "chart": "",
       "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "Wanna Party?",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "Wolf 1061",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "XINOBIKILL",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "Xyndrome",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "Zenith",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "apo:llioth",
-      "chart": "",
-      "ver": "28",
       "rank": "地力C"
     },
     {
@@ -9938,51 +5918,9 @@
       "rank": "地力C"
     },
     {
-      "title": "examination leave",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
       "title": "fffff",
       "chart": "",
       "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "in the Sky",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力C"
-    },
-    {
-      "title": "lowercase lifetime",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "of the first magnitude",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "smile",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力C"
-    },
-    {
-      "title": "smooooch・∀・",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力C"
-    },
-    {
-      "title": "the trigger of innocence",
-      "chart": "",
-      "ver": "15",
       "rank": "地力C"
     },
     {
@@ -9992,33 +5930,9 @@
       "rank": "地力C"
     },
     {
-      "title": "yamabiko (SINOBUZ Edition)",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "≡+≡",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
       "title": "〆",
       "chart": "",
       "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "《ORDERBREAKER》",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "たからもの",
-      "chart": "",
-      "ver": "17",
       "rank": "地力C"
     },
     {
@@ -10028,39 +5942,9 @@
       "rank": "地力C"
     },
     {
-      "title": "めうめうぺったんたん！！ (ZAQUVA Remix)",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "アイドル",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
       "title": "イザナミノナゲキ",
       "chart": "",
       "ver": "24",
-      "rank": "地力C"
-    },
-    {
-      "title": "オドループ",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "グッバイ宣言",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "シャムシールの舞",
-      "chart": "",
-      "ver": "27",
       "rank": "地力C"
     },
     {
@@ -10076,69 +5960,9 @@
       "rank": "地力C"
     },
     {
-      "title": "チェイスチェイスジョーカーズのうた (オニスタイルリミックス)",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "ディッシュウォッシャー◎彡おいわちゃん",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
       "title": "トリカゴノ鳳凰",
       "chart": "",
       "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "ドッキン☆サマーあばんちゅーる",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "ハオ",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力C"
-    },
-    {
-      "title": "バッドエンド・シンドローム",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
-      "title": "ミュージック・アワー",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力C"
-    },
-    {
-      "title": "ユミル",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力C"
-    },
-    {
-      "title": "ラビットホール",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "乱膳の舞姫",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力C"
-    },
-    {
-      "title": "凛として咲く花の如く",
-      "chart": "",
-      "ver": "16",
       "rank": "地力C"
     },
     {
@@ -10160,57 +5984,15 @@
       "rank": "地力C"
     },
     {
-      "title": "寝起きヤシの木",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "少年リップルズ",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力C"
-    },
-    {
-      "title": "恋は白帯、サンシロー",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
       "title": "旋律のドグマ～Miserables～",
       "chart": "",
       "ver": "21",
       "rank": "地力C"
     },
     {
-      "title": "明鏡止水",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力C"
-    },
-    {
       "title": "最小三倍完全数",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "朧",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力C"
-    },
-    {
-      "title": "果たせぬ約束 ft. 小林マナ",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力C"
-    },
-    {
-      "title": "無双",
-      "chart": "",
-      "ver": "32",
       "rank": "地力C"
     },
     {
@@ -10238,12 +6020,6 @@
       "rank": "地力C"
     },
     {
-      "title": "錬成人間トリコロイダー",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力C"
-    },
-    {
       "title": "電人、暁に斃れる。",
       "chart": "",
       "ver": "14",
@@ -10256,27 +6032,9 @@
       "rank": "地力C"
     },
     {
-      "title": "鬼天",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力C"
-    },
-    {
-      "title": "鴉",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力C"
-    },
-    {
       "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
       "chart": "",
       "ver": "26",
-      "rank": "地力C"
-    },
-    {
-      "title": "Ｘ↑Ｘ↓",
-      "chart": "",
-      "ver": "22",
       "rank": "地力C"
     },
     {
@@ -10652,144 +6410,6 @@
       "rank": "個人差D"
     },
     {
-      "title": "#The_Relentless",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "& Intelligence",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "100％ minimoo-G",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "1st Samurai",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "20XX",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "24th Century BOY",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "3V0",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "405nm (Ryu☆mix)",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "50th Memorial Songs -The BEMANI History-",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "532nm",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "AFRO KNUCKLE",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "ALL MY TURN -このターンに、オレの全てを賭ける-",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "AMRITA -不滅ノ花-",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "ANDROMEDA",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "ANTHEM LANDING",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Abraxas",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Advent Infamous",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aegis",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Afterimage d'automne",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ambush Ace",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Amethyst",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Amor De Verao",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Angelic Jelly",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
       "title": "Apocalypse",
       "chart": "",
       "ver": "24",
@@ -10802,337 +6422,7 @@
       "rank": "地力E"
     },
     {
-      "title": "Around The Galaxy",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Around the Future",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aublia",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Aurora",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
       "title": "BIGソムタム",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "BLOCKS",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "BRAINSTORM",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "BREAK OVER",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "BROKEN EDEN",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Back Spin Sweeper",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Banger Banger Banger Banger",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Battle Train -IIDX Edition-",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Battleground",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Be OK",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "Be a Hero!",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Beastie Starter",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Believe In Me",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Blame",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "Blind Justice ～Torn souls， Hurt Faiths ～",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Bow shock!!",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Broadbanded",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Buffalo",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "CHAOTIC SUNBIRD",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "CODE -CRiMSON-",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "CODE:2",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "CONCEPTUAL",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "COSMIC CYBER",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Caldwell 99",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "CaptivAte2～覚醒～",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Castle on the Moon",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Change Yourself",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "ChaserXX",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Chemical Colours",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Cleopatrysm",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Crazy Jackpot",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Critical Crystal",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Cyber True Color",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "D.C.fish",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "DESIRE",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "DISPARATE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "DREAM OF SPACE UFO ABDUCTION",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "DROP",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Danza Aestas",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Debtty Daddy",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "Destiny Sword",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Devilz Sacrifice -贖罪の羊-",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Do it!! Do it!!",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "ELYSIUM",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "EXTREME MACH COLLIDER",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Echoes of Sunfall",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Eine Haube ～聖地の果てにあるもの～",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ember Lights",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Empire State Glory",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Engraved Mark",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Erosion Mark",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Explorer feat. ぷにぷに電機",
       "chart": "",
       "ver": "28",
       "rank": "地力E"
@@ -11144,159 +6434,9 @@
       "rank": "地力E"
     },
     {
-      "title": "FINALLY BLAZE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "FLOWER",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Farewell to Marrakech",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Flash Back 90's",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Funny shuffle",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "G2",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "GALGALIM",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "GENOCIDE",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "GHOST",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "GIGA THRASH",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "GIGA VIOLATE",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "GLORIOUS HAMMER",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "GOBBLE",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "GOLD RUSH",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
       "title": "GRID KNIGHT",
       "chart": "",
       "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Garuda",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Get Higher",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Get On Your Feet",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Giudecca",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "Globe Glitter",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "GloriosA",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "HAPPY★RUSH",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "HYPE THE CORE",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "HYPERION",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Harmony and Lovely",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Hat Surprise",
-      "chart": "",
-      "ver": "29",
       "rank": "地力E"
     },
     {
@@ -11306,171 +6446,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Hat Surprise (Season 3)",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Hello Happiness",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Holic",
-      "chart": "",
-      "ver": "3",
-      "rank": "地力E"
-    },
-    {
-      "title": "Honey Trap",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "I Love You",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "I will be back -オレは帰ってきた-",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "I'm so Happy",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "INAZUMA",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "INHERITANCE",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "INORI",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "INVISIBLE STRIX",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "In the Blackest Den",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Inner Spirit",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Insane Techniques",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Into The Madness",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Jungle Eater",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Just Gimme",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "KEY",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "KHAMEN BREAK",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "LADYBIRD",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
       "title": "LASER CRUSTER",
       "chart": "",
       "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "LAST DAY",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lawes's Parotia",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Let The Track Flow",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Light and Cyber…",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lighting Shower",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Like+it!",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Line 4 Ruin",
-      "chart": "",
-      "ver": "22",
       "rank": "地力E"
     },
     {
@@ -11480,267 +6458,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Lost wing at.0",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Love Is Eternity",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "Lovely Howdy Cowboy!!",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "MAGIC & LOVE",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "MAXIVCORD",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "MA・TSU・RI",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "MENTAL MELTDOWN",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "MINT",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Macuilxochitl",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Modular Technology",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Moving on",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Mukade",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "NEMESIS",
-      "chart": "",
-      "ver": "6",
-      "rank": "地力E"
-    },
-    {
-      "title": "NEW SENSATION -もう、あなたしか見えない-",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
       "title": "NINJA IS DEAD IIDX ver.",
       "chart": "",
       "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Nasty Techniques",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Necroxis Girl",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Neo Heritage",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Never Fade Away",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "New Decade IIDX Edition",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Next Tales 2 Oath (IIDX 20th Anniv \"Ring\" Theme)",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Night sky",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Night! Night! Night!",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "No Limit 2 dAnce feat. 大山愛未",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "No.13",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "OTOKOZAKA",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "On the FM",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Overslept",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "PAPAYAPA BASS",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "PHASE SHIFT MANEUVER",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "PILGRIM",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "POLKAMANIA",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "POODLE",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Pharaoh",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Playing With Fire",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Pout",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed Genom",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed Sun",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Programmed World",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Psychedelic Intelligence",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Queen Kaguya",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Quick Silver",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "R5",
-      "chart": "",
-      "ver": "3",
-      "rank": "地力E"
-    },
-    {
-      "title": "RAVE SYNDROME",
-      "chart": "",
-      "ver": "32",
       "rank": "地力E"
     },
     {
@@ -11750,189 +6470,9 @@
       "rank": "地力E"
     },
     {
-      "title": "RESONATE 1794",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "RISLIM -Remix-",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "ROTTERDAM SHOGUN",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "RUGGED ASH",
-      "chart": "",
-      "ver": "s",
-      "rank": "地力E"
-    },
-    {
-      "title": "Raison d'etre～交差する宿命～",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
       "title": "Raspberry Railgun",
       "chart": "",
       "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rising in the Sun(original mix)",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ritual of Anubis",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rock Da House",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rock It",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rosa azuL",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Rubrum Piano",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "Ruler or Loser",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "S!ck",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "SCHWARZSCHILD FIELD",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "SEQUENCE CAT",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "SHELTER OF THE MIND",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "STELLAR WIND",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "STOIC HYPOTHESIS",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "STRAIGHT TO THE STARS",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sakura Mirage",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sarutobi Champion is 拙者",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Scarlet Moon",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Scripted Connection⇒ N mix",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Second Heaven",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "Secret of Love",
-      "chart": "",
-      "ver": "11",
-      "rank": "地力E"
-    },
-    {
-      "title": "See You Again",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Seraph",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Session 1 -Genesis-",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "Shiva",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Show Me All Your Love",
-      "chart": "",
-      "ver": "32",
       "rank": "地力E"
     },
     {
@@ -11942,63 +6482,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Snow Goose",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sparkle Smilin'",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Spica",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "Squeeze",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "State Of The Art",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
       "title": "Steel Edge",
       "chart": "",
       "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Stylus",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "Submerge Serenade",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Sun Field",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Swing My Wonderland",
-      "chart": "",
-      "ver": "30",
       "rank": "地力E"
     },
     {
@@ -12008,231 +6494,9 @@
       "rank": "地力E"
     },
     {
-      "title": "Synergy For Angels",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE CANNONBALLER",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE LAST STRIKER",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE SHINING POLARIS(kors k mix)",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "THE TIME MACHINE",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "TYPE MARS(G-Style Mix)",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "Tail Lights",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "Take My Life",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "Tell me what you wish feat.らっぷびと",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "The Dirty of Loudness",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "This Is Club Musik feat. 大久保紅葉",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "Time Distortion pt.2(IIDX Edit)",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "UMMU",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "UNDERWORLD HOLOGRAPHY",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "UNITE THE HEART",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "Unicorn tail",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Usual Days-remix",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "VEGA",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
       "title": "Venom",
       "chart": "",
       "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "Violet Rose",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "Vulkan",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "Wonder Girl feat. Kanae Asaba",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "Wonderland",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "X-ray binary",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "XENON II ～TOMOYUKIの野望～",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "Xepher",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "Yellow Sketch(RX-Ver.S.P.L.)",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "You'll say \"Now!\"",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "Yum Yum Jelly",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZED",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZENDEGI DANCE",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZERO-ONE",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZETA～素数の世界と超越者～",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "ZEИITH",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "bloomin' feeling",
-      "chart": "",
-      "ver": "17",
-      "rank": "地力E"
-    },
-    {
-      "title": "chaos eater -IIDX edition-",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "crew",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "diagram",
-      "chart": "",
-      "ver": "21",
       "rank": "地力E"
     },
     {
@@ -12248,147 +6512,9 @@
       "rank": "地力E"
     },
     {
-      "title": "i-ii",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "kors k's How to make OTOGE CORE",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "m1dy Deluxe",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
       "title": "moon_child",
       "chart": "",
       "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "murmur twins",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "n'pa pa BBQ",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "neogenesis",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "out of disk space",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "prompt",
-      "chart": "",
-      "ver": "19",
-      "rank": "地力E"
-    },
-    {
-      "title": "quasar",
-      "chart": "",
-      "ver": "9",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow flyer",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow guitar weeps",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "rainbow rainbow",
-      "chart": "",
-      "ver": "10",
-      "rank": "地力E"
-    },
-    {
-      "title": "refractive index",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "rumrum triplets",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "satellite020712 from \"CODED ARMS\"",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "squall",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "stoic",
-      "chart": "",
-      "ver": "7",
-      "rank": "地力E"
-    },
-    {
-      "title": "switch",
-      "chart": "",
-      "ver": "15",
-      "rank": "地力E"
-    },
-    {
-      "title": "the shadow",
-      "chart": "",
-      "ver": "14",
-      "rank": "地力E"
-    },
-    {
-      "title": "tripping contact(teranoid&MC Natsack Remix)",
-      "chart": "",
-      "ver": "13",
-      "rank": "地力E"
-    },
-    {
-      "title": "winkle 2 winkle",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "xenon",
-      "chart": "",
-      "ver": "8",
-      "rank": "地力E"
-    },
-    {
-      "title": "《GRANDMASTER》",
-      "chart": "",
-      "ver": "29",
       "rank": "地力E"
     },
     {
@@ -12398,375 +6524,15 @@
       "rank": "地力E"
     },
     {
-      "title": "あるビー！ feat.ころねぽち",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "うさ☆かめ 大戦争！",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "えだまめカレークッキング",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "おーまい！らぶりー！すうぃーてぃ！だーりん！",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "か・し・ま・し☆PUMP UP！",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "ちょえちょえまぎか",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "ぷろぐれっしぶ時空少女！うらしまたろ子ちゃん！",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "もっと！モット！ときめき feat. 松下",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "ウツシミウツシ",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "オールトの雲",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
       "title": "カゴノトリ～弐式～",
       "chart": "",
       "ver": "13",
       "rank": "地力E"
     },
     {
-      "title": "シル・ヴ・プレジデント",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "セロトニン",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "デッドボヲルdeホームラン",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "ハードベース・フェスタ",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "バ→ビ→ブ→Bomb!",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "バンブーソード・ガール",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "パ→ピ→プ→Yeah!",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "パラドキシカル・タイムリープトライアル(Short Ver.)",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "パーフェクトイーター",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "ファイナルレター",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "マーシャル・マキシマイザー",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "ミッドナイト☆WAR",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "ミッドナイト堕天使",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "メズマライザー",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "ランカーキラーガール",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "儚き恋の華",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "冬椿 ft. Kanae Asaba",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "創世ノート",
-      "chart": "",
-      "ver": "20",
-      "rank": "地力E"
-    },
-    {
-      "title": "勇者",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "合体せよ！ストロングイェーガー！！ (Ryu☆ remix)",
-      "chart": "",
-      "ver": "12",
-      "rank": "地力E"
-    },
-    {
-      "title": "命の標本",
-      "chart": "",
-      "ver": "25",
-      "rank": "地力E"
-    },
-    {
-      "title": "夕焼け ～Fading Day～",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "夢縁",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "天空脳番長危機十六連打",
-      "chart": "",
-      "ver": "16",
-      "rank": "地力E"
-    },
-    {
-      "title": "忍恋花",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
-      "title": "惑星☆ロリポップ",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "打打打打打打打打打打",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "断罪の一花",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "旅人リラン",
-      "chart": "",
-      "ver": "18",
-      "rank": "地力E"
-    },
-    {
-      "title": "時空トラベローグ",
-      "chart": "",
-      "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "曼荼羅恋々",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "月とミルク",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "朝焼けから始まるボクらの小さな旅",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "泰東ノ翠霞",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "涙のテ・エストラーニョ・ムーチョ",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "無意識のフィロソフィア",
-      "chart": "",
-      "ver": "28",
-      "rank": "地力E"
-    },
-    {
-      "title": "爆ぜりゃんせ",
-      "chart": "",
-      "ver": "32",
-      "rank": "地力E"
-    },
-    {
-      "title": "爆ゼニ☆がってんワーカー",
-      "chart": "",
-      "ver": "26",
-      "rank": "地力E"
-    },
-    {
-      "title": "牧神笛吹きて",
-      "chart": "",
-      "ver": "21",
-      "rank": "地力E"
-    },
-    {
-      "title": "狂水一華",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "眠りの国のステラ",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "禍根",
-      "chart": "",
-      "ver": "24",
-      "rank": "地力E"
-    },
-    {
       "title": "紅牡丹",
       "chart": "",
       "ver": "22",
-      "rank": "地力E"
-    },
-    {
-      "title": "輪廻の鴉",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "追想快晴テーマパーク",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "量子の海のリントヴルム",
-      "chart": "",
-      "ver": "23",
-      "rank": "地力E"
-    },
-    {
-      "title": "開きたまえ！Next stAge！",
-      "chart": "",
-      "ver": "27",
-      "rank": "地力E"
-    },
-    {
-      "title": "雫",
-      "chart": "",
-      "ver": "31",
-      "rank": "地力E"
-    },
-    {
-      "title": "青の洞窟",
-      "chart": "",
-      "ver": "29",
-      "rank": "地力E"
-    },
-    {
-      "title": "響花水月",
-      "chart": "",
-      "ver": "30",
-      "rank": "地力E"
-    },
-    {
-      "title": "麗 ～うらら～",
-      "chart": "",
-      "ver": "23",
       "rank": "地力E"
     },
     {
@@ -12852,36 +6618,6 @@
       "chart": "",
       "ver": "31",
       "rank": "地力F"
-    },
-    {
-      "title": "☆11 (新ノマゲ難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆11 (新ハード難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆12 (ノマゲ難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "☆12 (ハード難易度表)",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
-    },
-    {
-      "title": "譜面",
-      "chart": "",
-      "ver": "-",
-      "rank": "未分類"
     }
   ]
 }
