@@ -16,10 +16,13 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,14 +45,26 @@ jobs:
             exit 0
           fi
 
+          # Keep the newly generated files outside the repository temporarily.
+          mkdir -p /tmp/iidx-generated
+          cp data/songs.js /tmp/iidx-generated/songs.js
+          cp data/songs.json /tmp/iidx-generated/songs.json
+
+          # Move to the latest remote main branch.
+          # Generated data is restored afterward, so conflicts in those files cannot occur.
+          git fetch origin main
+          git reset --hard origin/main
+
+          cp /tmp/iidx-generated/songs.js data/songs.js
+          cp /tmp/iidx-generated/songs.json data/songs.json
+
+          if git diff --quiet -- data/songs.js data/songs.json; then
+            echo "Latest main already contains the same data"
+            exit 0
+          fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add data/songs.js data/songs.json
           git commit -m "Update difficulty data"
-
-          # The branch may have advanced while the scraper was running.
-          # Rebase the generated-data commit onto the latest main before push.
-          git fetch origin main
-          git rebase origin/main
           git push origin HEAD:main
