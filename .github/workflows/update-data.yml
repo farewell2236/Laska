@@ -33,7 +33,7 @@ jobs:
           python -m playwright install --with-deps chromium
 
       - name: Build song data
-        run: python scripts/build_data.py
+        run: python -u scripts/build_data.py
 
       - name: Commit generated data
         run: |

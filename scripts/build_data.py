@@ -195,21 +195,41 @@ async def scrape(mode: str, url: str) -> list[dict[str, str]]:
                 pass
 
         page.on("response", capture)
-        await page.goto(url, wait_until="networkidle", timeout=90_000)
-        await page.wait_for_timeout(3000)
+        print(f"{mode}: opening {url}", flush=True)
+        await page.goto(url, wait_until="domcontentloaded", timeout=60_000)
+        await page.wait_for_timeout(5000)
+        print(f"{mode}: page opened", flush=True)
 
         # Scroll to trigger lazy rendering.
+        # Bounded scrolling prevents infinite-scroll pages from running forever.
+        print(f"{mode}: scrolling page", flush=True)
         await page.evaluate(
             """async () => {
-              for (let y = 0; y < document.body.scrollHeight; y += 700) {
-                window.scrollTo(0, y);
-                await new Promise(r => setTimeout(r, 80));
+              let previousHeight = 0;
+              let stableRounds = 0;
+              for (let round = 0; round < 40; round++) {
+                const height = document.body.scrollHeight;
+                window.scrollTo(0, height);
+                await new Promise(r => setTimeout(r, 250));
+
+                const nextHeight = document.body.scrollHeight;
+                if (nextHeight === previousHeight) {
+                  stableRounds += 1;
+                } else {
+                  stableRounds = 0;
+                }
+                previousHeight = nextHeight;
+
+                if (stableRounds >= 3) break;
               }
               window.scrollTo(0, 0);
             }"""
         )
+        print(f"{mode}: scrolling complete", flush=True)
 
+        print(f"{mode}: extracting DOM data", flush=True)
         dom_items = await extract_from_dom(page)
+        print(f"{mode}: DOM candidates={len(dom_items)}", flush=True)
 
         # Next.js and other frameworks often embed state in script tags.
         embedded = await page.locator("script").all_text_contents()
@@ -230,6 +250,7 @@ async def scrape(mode: str, url: str) -> list[dict[str, str]]:
                         except Exception:
                             pass
 
+        print(f"{mode}: closing browser", flush=True)
         await browser.close()
 
     candidates = dom_items[:]
@@ -237,7 +258,7 @@ async def scrape(mode: str, url: str) -> list[dict[str, str]]:
         candidates.extend(walk_json(payload))
 
     result = dedupe(candidates)
-    print(f"{mode}: DOM={len(dom_items)} JSON responses={len(captured_json)} result={len(result)}")
+    print(f"{mode}: DOM={len(dom_items)} JSON responses={len(captured_json)} result={len(result)}", flush=True)
     if len(result) < 100:
         raise RuntimeError(
             f"{mode} の解析件数が不足しています ({len(result)}件)。"
@@ -267,7 +288,7 @@ async def main() -> None:
         ";\n",
         encoding="utf-8",
     )
-    print(f"Wrote {OUTPUT_JSON} and {OUTPUT_JS}")
+    print(f"Wrote {OUTPUT_JSON} and {OUTPUT_JS}", flush=True)
 
 
 if __name__ == "__main__":
