@@ -1,0 +1,51 @@
+#!/usr/bin/env python3
+"""atwikiのSP☆12ノマゲ/ハード表から曲名・ver・ランクだけを抽出してJSON化する。"""
+from __future__ import annotations
+import json, re
+from datetime import datetime, timezone
+from pathlib import Path
+import requests
+from bs4 import BeautifulSoup, Tag
+
+URLS={"normal":"https://w.atwiki.jp/bemani2sp11/pages/19.html","hard":"https://w.atwiki.jp/bemani2sp11/pages/18.html"}
+RANK_RE=re.compile(r"^(未定|地力[SA-F]\+?|個人差[SA-F]\+?)")
+OUT=Path(__file__).resolve().parents[1]/"data"/"songs.json"
+
+def scrape(url:str)->dict[str,dict]:
+    r=requests.get(url,timeout=45,headers={"User-Agent":"Mozilla/5.0 (compatible; IIDX-SP12-Option-Manager/1.0)"})
+    r.raise_for_status(); soup=BeautifulSoup(r.text,"html.parser"); result={}
+    current="未分類"
+    content=soup.select_one("#wikibody") or soup
+    for node in content.find_all(["h3","h4","table"]):
+        if node.name in {"h3","h4"}:
+            m=RANK_RE.match(node.get_text(" ",strip=True))
+            if m: current=m.group(1)
+            continue
+        rows=node.find_all("tr")
+        if not rows: continue
+        headers=[c.get_text(" ",strip=True) for c in rows[0].find_all(["th","td"])]
+        try: ti=next(i for i,h in enumerate(headers) if "曲名" in h)
+        except StopIteration: continue
+        vi=next((i for i,h in enumerate(headers) if h.lower()=="ver"),None)
+        for tr in rows[1:]:
+            cells=tr.find_all(["th","td"])
+            if len(cells)<=ti: continue
+            title=cells[ti].get_text(" ",strip=True)
+            if not title or title=="曲名": continue
+            version=cells[vi].get_text(" ",strip=True) if vi is not None and len(cells)>vi else ""
+            chart="SPL" if title.endswith("(L)") else "SPA"
+            result[title]={"title":title,"version":version,"chart":chart,"rank":current}
+    return result
+
+def main()->None:
+    normal=scrape(URLS["normal"]); hard=scrape(URLS["hard"])
+    titles=sorted(set(normal)|set(hard),key=str.casefold)
+    songs=[]
+    for title in titles:
+        n=normal.get(title,{}); h=hard.get(title,{})
+        songs.append({"title":title,"version":n.get("version") or h.get("version") or "","chart":n.get("chart") or h.get("chart") or "SPA","normalRank":n.get("rank","未分類"),"hardRank":h.get("rank","未分類")})
+    if len(songs)<500: raise RuntimeError(f"抽出件数が少なすぎます: {len(songs)}")
+    OUT.parent.mkdir(parents=True,exist_ok=True)
+    OUT.write_text(json.dumps({"updatedAt":datetime.now(timezone.utc).date().isoformat(),"sources":URLS,"songs":songs},ensure_ascii=False,indent=2),encoding="utf-8")
+    print(f"wrote {len(songs)} songs -> {OUT}")
+if __name__=="__main__": main()
