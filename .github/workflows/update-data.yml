@@ -41,8 +41,15 @@ jobs:
             echo "No data changes"
             exit 0
           fi
+
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/songs.js data/songs.json
           git commit -m "Update difficulty data"
-          git push
+
+          # The branch may have advanced while the scraper was running.
+          # Rebase the generated-data commit onto the latest main before push.
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
