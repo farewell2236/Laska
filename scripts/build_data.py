@@ -246,35 +246,14 @@ async def scrape(mode: str, url: str) -> list[dict[str, str]]:
                 f"(expected {expected_path})"
             )
 
-        # Scroll to trigger lazy rendering.
-        # Bounded scrolling prevents infinite-scroll pages from running forever.
-        print(f"{mode}: scrolling page", flush=True)
-        await page.evaluate(
-            """async () => {
-              let previousHeight = 0;
-              let stableRounds = 0;
-              for (let round = 0; round < 40; round++) {
-                const height = document.body.scrollHeight;
-                window.scrollTo(0, height);
-                await new Promise(r => setTimeout(r, 250));
-
-                const nextHeight = document.body.scrollHeight;
-                if (nextHeight === previousHeight) {
-                  stableRounds += 1;
-                } else {
-                  stableRounds = 0;
-                }
-                previousHeight = nextHeight;
-
-                if (stableRounds >= 3) break;
-              }
-              window.scrollTo(0, 0);
-            }"""
-        )
-        print(f"{mode}: scrolling complete", flush=True)
+        # Do not auto-scroll. The target page can continuously append content
+        # and keep an in-page JavaScript promise alive indefinitely.
+        # Read only the rows already rendered for the requested ☆12 route.
+        print(f"{mode}: skipping auto-scroll", flush=True)
+        await page.wait_for_timeout(2000)
 
         print(f"{mode}: extracting DOM data", flush=True)
-        dom_items = await extract_from_dom(page)
+        dom_items = await asyncio.wait_for(extract_from_dom(page), timeout=30)
         print(f"{mode}: DOM candidates={len(dom_items)}", flush=True)
 
         print(f"{mode}: closing browser", flush=True)
