@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#070a11">
+  <title>IIDX SP☆12 OPTION MANAGER</title>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<header>
+  <h1>IIDX SP☆12 OPTION MANAGER</h1>
+  <div class="controls">
+    <button id="normalBtn" class="mode active">ノマゲ難易度表</button>
+    <button id="hardBtn" class="mode">ハード難易度表</button>
+    <input id="search" type="search" placeholder="曲名検索">
+    <select id="optionFilter"></select>
+    <button id="exportBtn">バックアップ保存</button>
+    <button id="importBtn">バックアップ読込</button>
+    <button id="resetBtn">オプション初期化</button>
+  </div>
+  <div id="status">曲データを確認中…</div>
+</header>
+
+<main>
+  <div id="summary" class="summary"></div>
+  <div id="app" class="empty">読み込み中です</div>
+</main>
+
+<input id="importFile" type="file" accept=".json,application/json" hidden>
+
+<!-- Actionsが生成するデータ。fetchを使わないためfile://でも読み込めます -->
+<script src="./data/songs.js"></script>
+<script src="./js/app.js"></script>
+</body>
+</html>
