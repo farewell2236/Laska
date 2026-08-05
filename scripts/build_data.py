@@ -37,7 +37,7 @@ def normalize_rank(value: Any) -> str:
     for rank in RANKS:
         if text == rank or text.startswith(rank):
             return rank
-    match = re.search(r"(個人差|地力)?\s*([S-F])\s*(\+)?", text, re.I)
+    match = re.search(r"(個人差|地力)?\s*([A-FS])\s*(\+)?", text, re.I)
     if match:
         return f"{match.group(1) or '地力'}{match.group(2).upper()}{match.group(3) or ''}"
     return "未分類"
@@ -110,7 +110,7 @@ async def extract_from_dom(page: Page) -> list[dict[str, str]]:
             const text = clean(value).replace(/[（(]\\s*\\d+\\s*曲?\\s*[)）]/g, '');
             const direct = ranks.find(r => text === r || text.startsWith(r));
             if (direct) return direct;
-            const m = text.match(/(個人差|地力)?\\s*([S-F])\\s*(\\+)?/i);
+            const m = text.match(/(個人差|地力)?\\s*([A-FS])\\s*(\\+)?/i);
             return m ? `${m[1] || '地力'}${m[2].toUpperCase()}${m[3] || ''}` : '未分類';
           };
           const result = [];
