@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-from playwright.async_api import async_playwright, Page, Response
+from playwright.async_api import async_playwright, Page
 
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT_JSON = ROOT / "data" / "songs.json"
@@ -103,9 +103,24 @@ def walk_json(node: Any, inherited_rank: str = "未分類") -> list[dict[str, st
 
 
 async def extract_from_dom(page: Page) -> list[dict[str, str]]:
+    """Extract only rows currently rendered on the requested table page.
+
+    The site preloads data for other difficulty tables, including ☆11.
+    Reading every JSON response or every script tag therefore mixes levels.
+    This function intentionally reads only visible DOM rows on the current page.
+    """
     return await page.evaluate(
         """(ranks) => {
           const clean = v => String(v ?? '').replace(/\\s+/g, ' ').trim();
+          const visible = el => {
+            if (!el) return false;
+            const style = getComputedStyle(el);
+            const rect = el.getBoundingClientRect();
+            return style.display !== 'none' &&
+                   style.visibility !== 'hidden' &&
+                   rect.width > 0 &&
+                   rect.height > 0;
+          };
           const normRank = value => {
             const text = clean(value).replace(/[（(]\\s*\\d+\\s*曲?\\s*[)）]/g, '');
             const direct = ranks.find(r => text === r || text.startsWith(r));
@@ -115,27 +130,90 @@ async def extract_from_dom(page: Page) -> list[dict[str, str]]:
           };
           const result = [];
 
-          // 1. Semantic HTML tables
           document.querySelectorAll('table').forEach(table => {
-            const rows = [...table.querySelectorAll('tr')];
+            if (!visible(table)) return;
+
+            const rows = [...table.querySelectorAll('tr')].filter(visible);
             if (!rows.length) return;
-            let titleIndex = -1, verIndex = -1, rankIndex = -1, chartIndex = -1, start = 0;
-            for (let i = 0; i < Math.min(4, rows.length); i++) {
+
+            let titleIndex = -1;
+            let verIndex = -1;
+            let rankIndex = -1;
+            let chartIndex = -1;
+            let levelIndex = -1;
+            let start = 0;
+
+            for (let i = 0; i < Math.min(5, rows.length); i++) {
               const cells = [...rows[i].querySelectorAll('th,td')].map(c => clean(c.innerText));
               const ti = cells.findIndex(c => /曲名|title|music/i.test(c));
-              if (ti >= 0) {
-                titleIndex = ti;
-                verIndex = cells.findIndex(c => /^ver|version|バージョン/i.test(c));
-                rankIndex = cells.findIndex(c => /地力|難易度|rank|tier/i.test(c));
-                chartIndex = cells.findIndex(c => /譜面|chart|difficulty name/i.test(c));
-                start = i + 1;
-                break;
-              }
+              if (ti < 0) continue;
+
+              titleIndex = ti;
+              verIndex = cells.findIndex(c => /^ver|version|バージョン/i.test(c));
+              rankIndex = cells.findIndex(c => /地力|難易度|rank|tier/i.test(c));
+              chartIndex = cells.findIndex(c => /譜面|chart|difficulty name/i.test(c));
+              levelIndex = cells.findIndex(c => /レベル|level|☆/i.test(c));
+              start = i + 1;
+              break;
             }
+
             if (titleIndex < 0) return;
+
             rows.slice(start).forEach(row => {
               const cells = [...row.querySelectorAll('th,td')].map(c => clean(c.innerText));
               if (cells.length <= titleIndex) return;
+
+              // If the page exposes a level column, accept ☆12 only.
+              if (levelIndex >= 0) {
+                const levelText = clean(cells[levelIndex]);
+                const levelMatch = levelText.match(/(?:☆|LV\\.?|LEVEL\\s*)?(\\d{1,2})/i);
+                if (levelMatch && Number(levelMatch[1]) !== 12) return;
+              }
+
+              const title = clean(cells[titleIndex]);
+              if (!title || /(?:^|\\s)☆?11(?:\\s|$)/.test(title)) return;
+
+              result.push({
+                title,
+                ver: verIndex >= 0 ? cells[verIndex] : '-',
+                chart: chartIndex >= 0 ? cells[chartIndex] : '',
+                rank: rankIndex >= 0 ? normRank(cells[rankIndex]) : '未分類'
+              });
+            });
+          });
+
+          // Some UI libraries render a grid rather than a semantic table.
+          document.querySelectorAll('[role="table"],[role="grid"]').forEach(grid => {
+            if (!visible(grid)) return;
+
+            const rows = [...grid.querySelectorAll('[role="row"]')].filter(visible);
+            if (rows.length < 2) return;
+
+            const header = [...rows[0].querySelectorAll(
+              '[role="columnheader"],[role="cell"],[role="gridcell"]'
+            )].map(c => clean(c.innerText));
+
+            const titleIndex = header.findIndex(c => /曲名|title|music/i.test(c));
+            if (titleIndex < 0) return;
+
+            const verIndex = header.findIndex(c => /^ver|version|バージョン/i.test(c));
+            const rankIndex = header.findIndex(c => /地力|難易度|rank|tier/i.test(c));
+            const chartIndex = header.findIndex(c => /譜面|chart|difficulty name/i.test(c));
+            const levelIndex = header.findIndex(c => /レベル|level|☆/i.test(c));
+
+            rows.slice(1).forEach(row => {
+              const cells = [...row.querySelectorAll(
+                '[role="cell"],[role="gridcell"]'
+              )].map(c => clean(c.innerText));
+              if (cells.length <= titleIndex) return;
+
+              if (levelIndex >= 0) {
+                const levelMatch = clean(cells[levelIndex]).match(
+                  /(?:☆|LV\\.?|LEVEL\\s*)?(\\d{1,2})/i
+                );
+                if (levelMatch && Number(levelMatch[1]) !== 12) return;
+              }
+
               result.push({
                 title: cells[titleIndex],
                 ver: verIndex >= 0 ? cells[verIndex] : '-',
@@ -145,33 +223,6 @@ async def extract_from_dom(page: Page) -> list[dict[str, str]]:
             });
           });
 
-          // 2. ARIA/data-grid based tables
-          document.querySelectorAll('[role="row"]').forEach(row => {
-            const cells = [...row.querySelectorAll('[role="cell"],[role="gridcell"],[role="columnheader"]')]
-              .map(c => clean(c.innerText));
-            if (cells.length < 2 || cells.some(c => /曲名|title/i.test(c))) return;
-            const rankCell = cells.find(c => normRank(c) !== '未分類' || c.startsWith('未分類'));
-            const title = cells.find(c => c !== rankCell && c.length > 1 && !/^\\d+$/.test(c));
-            if (title) result.push({title, ver:'-', chart:'', rank:normRank(rankCell || '')});
-          });
-
-          // 3. Cards grouped below headings
-          const headings = [...document.querySelectorAll('h1,h2,h3,h4,h5,h6,[role="heading"]')];
-          headings.forEach(heading => {
-            const rank = normRank(heading.innerText);
-            if (rank === '未分類' && !clean(heading.innerText).startsWith('未分類')) return;
-            let node = heading.nextElementSibling;
-            let guard = 0;
-            while (node && guard++ < 12 && !/^H[1-6]$/.test(node.tagName)) {
-              node.querySelectorAll('a,li,[data-title]').forEach(el => {
-                const title = clean(el.getAttribute('data-title') || el.innerText);
-                if (title && title.length < 180 && !/^(詳細|戻る|次へ|前へ)$/.test(title)) {
-                  result.push({title, ver:'-', chart:'', rank});
-                }
-              });
-              node = node.nextElementSibling;
-            }
-          });
           return result;
         }""",
         RANKS,
@@ -179,26 +230,21 @@ async def extract_from_dom(page: Page) -> list[dict[str, str]]:
 
 
 async def scrape(mode: str, url: str) -> list[dict[str, str]]:
-    captured_json: list[Any] = []
-
     async with async_playwright() as p:
         browser = await p.chromium.launch()
         page = await browser.new_page(viewport={"width": 1440, "height": 2000})
 
-        async def capture(response: Response) -> None:
-            content_type = (response.headers.get("content-type") or "").lower()
-            if "json" not in content_type:
-                return
-            try:
-                captured_json.append(await response.json())
-            except Exception:
-                pass
-
-        page.on("response", capture)
         print(f"{mode}: opening {url}", flush=True)
         await page.goto(url, wait_until="domcontentloaded", timeout=60_000)
         await page.wait_for_timeout(5000)
         print(f"{mode}: page opened", flush=True)
+        current_path = await page.evaluate("location.pathname")
+        expected_path = "/table/12_normal" if mode == "normal" else "/table/12_hard"
+        if current_path.rstrip("/") != expected_path:
+            raise RuntimeError(
+                f"{mode}: 想定外のページへ移動しました: {current_path} "
+                f"(expected {expected_path})"
+            )
 
         # Scroll to trigger lazy rendering.
         # Bounded scrolling prevents infinite-scroll pages from running forever.
@@ -231,38 +277,18 @@ async def scrape(mode: str, url: str) -> list[dict[str, str]]:
         dom_items = await extract_from_dom(page)
         print(f"{mode}: DOM candidates={len(dom_items)}", flush=True)
 
-        # Next.js and other frameworks often embed state in script tags.
-        embedded = await page.locator("script").all_text_contents()
-        embedded_json: list[Any] = []
-        for text in embedded:
-            text = text.strip()
-            if not text or len(text) < 2:
-                continue
-            try:
-                embedded_json.append(json.loads(text))
-            except Exception:
-                # Search for JSON objects assigned in script text.
-                if "__NEXT_DATA__" in text:
-                    match = re.search(r"\{.*\}", text, re.S)
-                    if match:
-                        try:
-                            embedded_json.append(json.loads(match.group(0)))
-                        except Exception:
-                            pass
-
         print(f"{mode}: closing browser", flush=True)
         await browser.close()
 
-    candidates = dom_items[:]
-    for payload in captured_json + embedded_json:
-        candidates.extend(walk_json(payload))
+    result = dedupe(dom_items)
+    print(f"{mode}: visible DOM={len(dom_items)} result={len(result)}", flush=True)
 
-    result = dedupe(candidates)
-    print(f"{mode}: DOM={len(dom_items)} JSON responses={len(captured_json)} result={len(result)}", flush=True)
-    if len(result) < 100:
+    # A valid ☆12 table should contain hundreds of charts, but never thousands.
+    # The upper bound detects accidental inclusion of prefetched ☆11 data.
+    if not 100 <= len(result) <= 900:
         raise RuntimeError(
-            f"{mode} の解析件数が不足しています ({len(result)}件)。"
-            "サイト構造が変わった可能性があります。"
+            f"{mode} の☆12解析件数が想定外です ({len(result)}件)。"
+            "他レベルが混ざったか、サイト構造が変わった可能性があります。"
         )
     return result
 
